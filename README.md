@@ -15,5 +15,5 @@ Each module has its own MVC structure by having subfolders for Models, Views, an
 ModularMonolith is the main application. It has default Models, Views and Controllers. 
 
 `Modules` folder contains the modular MVC applications.
+`Host` folder contains the Linux host information.
 
- 

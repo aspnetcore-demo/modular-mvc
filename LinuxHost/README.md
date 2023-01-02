@@ -1,11 +1,8 @@
 # Hosting In Ubuntu
 
+We want to host our system in Ubuntu server.
 
-Microsoft [blog](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-apache?view=aspnetcore-7.0)
-
-## System Information
-
-### DotNet
+### DotNet System Information
 `dotnet --info`
 ```
 NET SDK:
@@ -120,3 +117,6 @@ Enable virtualhost
 ```
 sudo a2ensite modularmonolith.conf
 ```
+
+
+Official Microsoft [blog](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-apache?view=aspnetcore-7.0)
